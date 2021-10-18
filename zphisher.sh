@@ -152,28 +152,22 @@ kill_pid() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
-		                   ▄▄     ▄▄▄▄         ██                            ▄▄▄▄   ▄▄
-               ████    ▀▀██         ▀▀                           ██▀▀▀   ██
-           ████      ██       ████     ▀██  ███   ▄████▄   ███████   ██▄████▄
-          ██  ██     ██         ██      ██▄ ██   ██▄▄▄▄██    ██      ██▀   ██
-         ██████     ██         ██       ████▀   ██▀▀▀▀▀▀    ██      ██    ██
-        ▄██  ██▄    ██▄▄▄   ▄▄▄██▄▄▄     ███    ▀██▄▄▄▄█    ██      ██    ██
-        ▀▀    ▀▀     ▀▀▀▀   ▀▀▀▀▀▀▀▀     ██       ▀▀▀▀▀     ▀▀      ▀▀    ▀▀
-                         ███      
-                                             ${RED}Version : 2.2
+		${ORANGE}Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh    
+		${ORANGE}Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh   
+		${ORANGE}Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh   
+		${ORANGE}Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh   
+		${ORANGE}Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh/Aliyefh   
+		${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Aliyefh (@aliyefh_sos)${WHITE}
 	EOF
 }
 
 ## Small Banner
 banner_small() {
 	cat <<- EOF
-		${BLUE}
-		${BLUE}  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
-		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${BLUE} Aliyefh/InvenTorfilixs
+		                 2.2
 	EOF
 }
 
